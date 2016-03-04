@@ -1,0 +1,16 @@
+#
+# system.prop for goldenvess3g
+#
+# rotation setting in potrait mode.
+ro.sf.hwrotation=270
+
+ro.config.used_hw_vsync=0
+
+ro.carrier=unknown
+
+# System property for Default Brightness
+ro.lcd_brightness=195
+ro.sf.lcd_density=240
+
+# minimum brightness value
+ro.lcd_min_brightness=20
